@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1">
+    <test name="Test">
+        <classes>
+            <class name="Org.Shiv.tests.LandingPageTest"/>
+            <class name="Org.Shiv.tests.LoginPageTest"/>
+            <class name="Org.Shiv.tests.CreatePostTest"/>
+            <class name="Org.Shiv.tests.TimelineTest"/>
+        </classes>
+    </test>
+</suite>
